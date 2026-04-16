@@ -22,9 +22,19 @@
  - все действия логируются в файл checker.log в формате
  - написать systemd unit для запуска скрипта как systemd-службы
 
+<img width="1220" height="754" alt="image" src="https://github.com/user-attachments/assets/d156af13-ddfb-474f-b516-190b5b749418" />
+
+<img width="1220" height="754" alt="image" src="https://github.com/user-attachments/assets/75de85ab-a8eb-4f26-a7da-4359759b67ef" />
+
 2. 
  - Написать скрипт для управления приложением simple-server
  - запуск процесса в фоновом режиме с перенаправлением stdout и stderr в файл simple-server.log
  - остановка процесса
  - проверка работоспособности приложения (curl)
  - все действия логируются в файл simple-server-control.log
+
+<img width="1220" height="654" alt="image" src="https://github.com/user-attachments/assets/afba190c-6705-4441-b1be-2438a0eff124" />
+
+<img width="1220" height="716" alt="image" src="https://github.com/user-attachments/assets/d934ad6a-0501-4931-ba80-3e470da88d77" />
+
+
